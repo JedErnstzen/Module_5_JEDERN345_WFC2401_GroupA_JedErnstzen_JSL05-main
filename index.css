@@ -21,6 +21,7 @@ h1 {
     display: inline-block;
     border-radius: 10px; /* Rounded corners */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for playlists */
+    text-align: left;
 }
 
 .song {
